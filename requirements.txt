@@ -4,3 +4,5 @@ PyPDF2
 requests
 beautifulsoup4
 youtube_transcript_api
+langdetect
+googletrans
